@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A veteren weeb, Amateur programmer and cyber security enthusiast.
+A veteren weeb,developer and cyber security enthusiast.
 
 - 🔭 Some of my repos: [Penta](https://github.com/Justaus3r/Penta) ,[Anfu](https://github.com/Justaus3r/Anfu),[Hapie](https://github.com/Justaus3r/Hapie)
 
