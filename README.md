@@ -19,4 +19,10 @@ proc displayBio(bioArray:array[4,string]) =
 displayBio(bioArray)
 
 ```
+<details align="center">
 
+  <summary>Tell me a joke</summary>
+  
+![Metrics](/github-metrics.svg)
+ 
+</details>
