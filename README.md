@@ -19,8 +19,4 @@ proc displayBio(bioArray:array[4,string]) =
 displayBio(bioArray)
 
 ```
-<h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justaus3r&langs_count=10&theme=tokyonight&layout=compact" alt="Justaus3r :: Top Langs" /></p>
-
-----
