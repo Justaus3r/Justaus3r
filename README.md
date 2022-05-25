@@ -3,7 +3,6 @@
 <h2 align="center">About me</h2>
 
 ``` Nim-lang
-# We can also use hashtables here..
 
 var bioArray = [
 "- Quick bio: A veteren weeb/otaku ,programmer and a cyber-security enthusiast",
@@ -22,6 +21,7 @@ displayBio(bioArray)
 <details align="center">
 
   <summary>Tell me a joke</summary>
+<p align="center"><i>Damn!.that is one lame joke...</i></p>
   
 ![Metrics](/github-metrics.svg)
  
