@@ -20,8 +20,7 @@ displayBio(bioArray)
 ```
 <details align="center">
 
-  <summary>Do tell a joke</summary>
-<p align="center"><i>Damn!.that is one lame joke...</i></p>
+  <summary>GitHub Stats</summary>>
   
 ![Metrics](/github-metrics.svg)
  
