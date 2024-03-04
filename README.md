@@ -1,4 +1,7 @@
 # Justaus3r
+<h1 align="center">FREE PALESTINE!!!</h1>
+
+![FREE PALESTINE](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)
 
 <h2 align="center">About me</h2>
 
