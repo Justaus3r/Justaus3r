@@ -1,7 +1,10 @@
 # Justaus3r
 <h1 align="center">FREE PALESTINE!!!</h1>
 
-![FREE PALESTINE](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)
+<div align="center">
+
+  [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+</div>
 
 <h2 align="center">About me</h2>
 
