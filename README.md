@@ -11,7 +11,7 @@
 ``` Nim-lang
 
 var bioArray = [
-"- Quick bio: A weeb/otaku ,programmer and a cyber-security enthusiast",
+"- Quick bio: A dev , mostly having interest in systems development",
 "- I’m looking for help with: Anything related to what i am learning",
 "- How to reach me: Justaus3r#3050,https://github.com/Justaus3r"
 ]
