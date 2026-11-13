@@ -1,6 +1,6 @@
 # Justaus3r
 >[!NOTE]
-> I am mostly migrating from GitHub to [CodeBerg](https://codeberg.org/). All my projects hosted on GH, will also be available on CodeBerg with future updates over there.
+> I am mostly migrating from GitHub to [CodeBerg](https://codeberg.org/Justaus3r). All my projects hosted on GH, will also be available on CodeBerg with future updates over there.
 
 <h1 align="center">FREE PALESTINE!!!</h1>
 
